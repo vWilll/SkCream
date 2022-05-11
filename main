@@ -1,0 +1,3 @@
+command /tps:
+  trigger:
+    send "TPS: 20"
